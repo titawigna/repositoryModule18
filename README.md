@@ -5,7 +5,7 @@ This project is created as part of learning process about Building Depedency Too
 
 Project Objective:
 This project aims to apply the theory about Building Depedency Tools Management about Gradle. 
-Notes = This project is limited to what has been taught in the Video Lessons of Module 20.
+
 
 How to run the project:
 To run the project, on terminal input "./gradlew greetingTask -Pname=YourName" command to run the project.
